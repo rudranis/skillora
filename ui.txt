@@ -1,0 +1,52 @@
+1. Login & Authentication
+📌 Screens:
+✅ Splash Screen – Animated logo with a tagline
+✅ Login Screen – OTP-based login & Social login (Google/Facebook)
+✅ Sign Up Screen – Simple form with email & mobile authentication
+✅ 2FA Verification Screen – OTP input with Firebase Authentication
+
+📌 Improvements:
+
+Use Google Sign-In & Firebase Auth for smooth authentication
+Implement biometric authentication (Face ID/Fingerprint) for security
+2. Dashboard - Real-Time Fund Tracking
+📌 Screens:
+✅ Homepage – Displays fund allocation stats with real-time graphs
+✅ Donation Report Screen – View past donations in a list format
+✅ Blockchain Transparency Screen – QR-based donation tracking
+
+📌 Improvements:
+
+Pie charts & bar graphs (using charts_flutter) to show fund distribution
+Dark & Light mode toggle for better UI accessibility
+3. Awareness & Gamification
+📌 Screens:
+✅ Blog & News Feed – Articles, videos, and infographics
+✅ Gamification Leaderboard – Top donors, badges & ranking system
+✅ Campaigns Page – Live social donation drives
+
+📌 Improvements:
+
+Add push notifications for updates on campaigns
+Like & Share buttons for spreading awareness
+4. AI-Powered Marketplace (For Farmer-to-Consumer)
+📌 Screens:
+✅ AI-Based Pricing Suggestion – Dynamic price recommendations
+✅ Product Listing – Farmers can upload crops with images
+✅ Real-Time Buyer Matching – Live chat using WebSockets (Socket.IO)
+✅ Smart Inventory Management – Track available stock
+
+📌 Improvements:
+
+Use Lottie animations for smooth UI experience
+Geolocation API for location-based buyer recommendations
+5. Payment & Security
+📌 Screens:
+✅ Secure Payment Gateway (Razorpay, Stripe, Google Pay, PayPal)
+✅ Transaction History – View all past transactions
+✅ Profile Settings – Edit details, change security settings
+
+📌 Improvements:
+
+QR Code Payments for easy transactions
+End-to-end encryption (AES-256) for data security
